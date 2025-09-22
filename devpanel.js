@@ -1,1 +1,1 @@
-(function(){'use strict';if(document.getElementById('devtools-panel'))return;const style=document.createElement('style');style.textContent=`.devtools-panel{position:fixed;top:0;left:0;width:30%;height:100vh;background:#2d2d2d;color:#e0e0e0;font-family:Consolas,Monaco,monospace;z-index:2147483647;display:flex;flex-direction:column;box-shadow:2px 0 8px 
+
